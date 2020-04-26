@@ -5,3 +5,6 @@
     - [x] Single file
     - [x] Scrapping web investing.com
     - [x] Use bs4
+    - [x] Notification to telegram integration
+    
+        ![](saham-scraping/example.jpg)
